@@ -1,4 +1,4 @@
-# Streamlit API Cheat Sheet
+# LLM-ready Streamlit API Cheat Sheet
 
 This is a summary of the docs for the latest version of Streamlit, v1.41.0.
 
